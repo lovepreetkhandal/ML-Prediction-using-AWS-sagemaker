@@ -1,1 +1,1 @@
-# ML-Prediction-using-XGboost-model-in-the-AWS-sagemaker
+# ML-Prediction-using-AWS-sagemaker
