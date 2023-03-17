@@ -12,7 +12,7 @@ import csv
 import numpy as np
 
 # grab environment variables
-ENDPOINT_NAME = "sagemaker-xgboost-2023-03-16-18-16-55-852"
+ENDPOINT_NAME = "------------------"
 runtime = boto3.client('runtime.sagemaker')
 
 def lambda_handler(event, context):
